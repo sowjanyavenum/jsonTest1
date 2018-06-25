@@ -1,0 +1,7 @@
+{
+  "product": "string",
+  "purpose": "string",
+  "proposal": [
+      "string", "string", "string", "string", "string"
+  ]
+}
